@@ -1,0 +1,38 @@
+Create a complete modern CSS stylesheet for a Roblox-inspired 3D browser game.
+
+File name: style.css
+
+Requirements:
+- Do NOT write any HTML or JavaScript.
+- Style the complete interface created in index.html.
+- Create a polished gaming UI.
+- Use a dark modern game interface with attractive gradients.
+- Full-screen responsive layout.
+- Style:
+  - Main game container
+  - Canvas
+  - Top navigation
+  - Player profile
+  - Coins
+  - Health bar
+  - XP bar
+  - Buttons
+  - Inventory
+  - Settings
+  - Pause menu
+  - Start screen
+  - Game over screen
+  - Crosshair
+  - Hotbar
+  - Mobile controls
+  - Notifications
+  - Score display
+- Add smooth hover animations.
+- Add button press animations.
+- Add transitions.
+- Add subtle shadows and glassmorphism where appropriate.
+- Make the UI responsive for 1920px desktop, laptop, tablet and mobile.
+- Mobile controls should be large enough for touch.
+- Keep the game canvas as the main visual focus.
+- Avoid excessive animations that reduce performance.
+- Make the design look like a professional commercial browser game.
